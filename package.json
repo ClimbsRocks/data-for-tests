@@ -1,0 +1,24 @@
+{
+  "name": "data-for-tests",
+  "version": "0.0.1",
+  "description": "A collection of datasets used by the test suites of other repos. This means we aren't saving big .csv files in those repos alongside our code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ClimbsRocks/data-for-tests.git"
+  },
+  "keywords": [
+    "machineJS",
+    "machine-js",
+    "data-formatter"
+  ],
+  "author": "Preston Parry <climbsbytes@gmail.com> (prestonparry.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClimbsRocks/data-for-tests/issues"
+  },
+  "homepage": "https://github.com/ClimbsRocks/data-for-tests"
+}
