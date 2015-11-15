@@ -1,6 +1,6 @@
 {
   "name": "data-for-tests",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A collection of datasets used by the test suites of other repos. This means we aren't saving big .csv files in those repos alongside our code.",
   "main": "index.js",
   "scripts": {
